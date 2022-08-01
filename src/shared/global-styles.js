@@ -16,7 +16,7 @@ const globalStylesCss = css({
   },
   'html, body': {
     width: '100%',
-    height: 'max-content'
+    height: '100%'
   },
   img: {
     verticalAlign: 'top'
